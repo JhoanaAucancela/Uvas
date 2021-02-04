@@ -65,7 +65,7 @@ float recargo(char tipo,int tam){
   return  precio;
 }
 
-//Informacion
+//Información
 void info (float pre_ini, float pre_fin, float k, int tam, char tipo,float precio){
 
   ofstream archivoUvas;

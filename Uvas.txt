@@ -8,7 +8,7 @@ Ganancia: 56
 
 =======================================
 Precio Inicial: 3.22
-Numero de kilos: 20
+Numero de kilos: 22
 Tamaño de la uva: 3
 Tipo de la uva: b
 Ingreso Datos incorrectos
